@@ -17,5 +17,13 @@
   "author": "harshitha gongidi",
   "license": "ISC",
   "devDependencies": {},
-  "description": ""
+  "description": "Added Readme - Lab 9\r https://s2wa73gongidi.herokuapp.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshithaGongidi/s2wa73gongidi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarshithaGongidi/s2wa73gongidi/issues"
+  },
+  "homepage": "https://github.com/HarshithaGongidi/s2wa73gongidi#readme"
 }
